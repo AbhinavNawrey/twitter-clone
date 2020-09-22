@@ -6,7 +6,7 @@ import {
  TwitterTweetEmbed,
 } from "react-twitter-embed";
 
-import SearchIcon from "@material-ui/icons/Search";
+import SearchIcon from "@material-ui/icons/Search";zoom
 
 function Widgets() {
     return (
@@ -18,6 +18,7 @@ function Widgets() {
 
           <div className="widgets__widgetsContainer">
             <h2>What's Happening</h2>
+            <h2>how are you</h2>
              
             <TwitterTweetEmbed tweetId={"858551177860055040"} />
 
